@@ -12,3 +12,5 @@ base
  day
 
  dude
+
+pictures
